@@ -1,0 +1,306 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{Eichensehr_2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=baa61d431bea11f7f1203444e293f99b}{%
+           family={Eichensehr},
+           familyi={E\bibinitperiod},
+           given={Kristen\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{baa61d431bea11f7f1203444e293f99b}
+      \strng{fullhash}{baa61d431bea11f7f1203444e293f99b}
+      \strng{bibnamehash}{baa61d431bea11f7f1203444e293f99b}
+      \strng{authorbibnamehash}{baa61d431bea11f7f1203444e293f99b}
+      \strng{authornamehash}{baa61d431bea11f7f1203444e293f99b}
+      \strng{authorfullhash}{baa61d431bea11f7f1203444e293f99b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AJIL Unbound}
+      \field{title}{Ukraine, Cyberattacks, and the Lessons for International Law}
+      \field{volume}{116}
+      \field{year}{2022}
+      \field{pages}{145\bibrangedash 149}
+      \range{pages}{5}
+    \endentry
+    \entry{kaye2022online}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0bd9f46a3cab4c64e2a533b7c531f61e}{%
+           family={Kaye},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{0bd9f46a3cab4c64e2a533b7c531f61e}
+      \strng{fullhash}{0bd9f46a3cab4c64e2a533b7c531f61e}
+      \strng{bibnamehash}{0bd9f46a3cab4c64e2a533b7c531f61e}
+      \strng{authorbibnamehash}{0bd9f46a3cab4c64e2a533b7c531f61e}
+      \strng{authornamehash}{0bd9f46a3cab4c64e2a533b7c531f61e}
+      \strng{authorfullhash}{0bd9f46a3cab4c64e2a533b7c531f61e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Online propaganda, censorship and human rights in Russia's war against reality}
+      \field{year}{2022}
+    \endentry
+    \entry{knockel2023not}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4659177519b3c4449bb543ee92d1442c}{%
+           family={Knockel},
+           familyi={K\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fe6ad954256f7b33980e1eec3ff680be}{%
+           family={Dalek},
+           familyi={D\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f420942fe1190ea98dc8f6383db409c4}{%
+           family={Meletti},
+           familyi={M\bibinitperiod},
+           given={Levi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=608c65eab05d1b1be01fecc40d9fb6fc}{%
+           family={Ermoshina},
+           familyi={E\bibinitperiod},
+           given={Ksenia},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4517bbbf49690efefce817c428a3dd25}
+      \strng{fullhash}{ed61d9eefa93dddb99678a085c0bf883}
+      \strng{bibnamehash}{ed61d9eefa93dddb99678a085c0bf883}
+      \strng{authorbibnamehash}{ed61d9eefa93dddb99678a085c0bf883}
+      \strng{authornamehash}{4517bbbf49690efefce817c428a3dd25}
+      \strng{authorfullhash}{ed61d9eefa93dddb99678a085c0bf883}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Not OK on VK: An analysis of in-platform censorship on Russia’s VKontakte}
+      \field{year}{2023}
+    \endentry
+    \entry{koltay2023censorship}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7264af11d9ccd4a8a6c776f041f41c9c}{%
+           family={Koltay},
+           familyi={K\bibinitperiod},
+           given={András},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7264af11d9ccd4a8a6c776f041f41c9c}
+      \strng{fullhash}{7264af11d9ccd4a8a6c776f041f41c9c}
+      \strng{bibnamehash}{7264af11d9ccd4a8a6c776f041f41c9c}
+      \strng{authorbibnamehash}{7264af11d9ccd4a8a6c776f041f41c9c}
+      \strng{authornamehash}{7264af11d9ccd4a8a6c776f041f41c9c}
+      \strng{authorfullhash}{7264af11d9ccd4a8a6c776f041f41c9c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. INT’L MEDIA \& ENT L}
+      \field{number}{1}
+      \field{title}{Censorship as a Tool Against State Disinformation: The Freedom of Expression Implications of the Russian--Ukrainian War}
+      \field{volume}{10}
+      \field{year}{2023}
+    \endentry
+    \entry{10.1145/3706599.3719906}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=0f21dde1474d52094ec2851561364956}{%
+           family={Kulyk},
+           familyi={K\bibinitperiod},
+           given={Oksana},
+           giveni={O\bibinitperiod}}}%
+        {{hash=9c7bdfa4d072b895cfc0ac27641a352a}{%
+           family={Kickbusch},
+           familyi={K\bibinitperiod},
+           given={Jari},
+           giveni={J\bibinitperiod}}}%
+        {{hash=85f85e6fb1e563f7ea82e3b2b62802bd}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{226d6d86523a60c73b7420226c63b0ee}
+      \strng{fullhash}{226d6d86523a60c73b7420226c63b0ee}
+      \strng{bibnamehash}{226d6d86523a60c73b7420226c63b0ee}
+      \strng{authorbibnamehash}{226d6d86523a60c73b7420226c63b0ee}
+      \strng{authornamehash}{226d6d86523a60c73b7420226c63b0ee}
+      \strng{authorfullhash}{226d6d86523a60c73b7420226c63b0ee}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{"It's like an explosion": Cyberwarfare harms for civilian population in Ukraine during the Russian invasion}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1145/3706599.3719906
+      \endverb
+    \endentry
+    \entry{ramesh2023network}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{hash=796edb852c9df225c41ce0b881227571}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={Reethika},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9858a1369a4b858eead0fd7b1142bdcd}{%
+           family={Raman},
+           familyi={R\bibinitperiod},
+           given={Ram\bibnamedelima Sundara},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b1202b6cc3f2ffc2174052d7336403a7}{%
+           family={Virkud},
+           familyi={V\bibinitperiod},
+           given={Apurva},
+           giveni={A\bibinitperiod}}}%
+        {{hash=35fc3056093fdf1e94cf7953dfcba2a6}{%
+           family={Dirksen},
+           familyi={D\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7be3ee737fcc23ac0b69d1bbe7f6b14b}{%
+           family={Huremagic},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a2c9d4565fa7cc9270b084bf5b40dcdf}{%
+           family={Fifield},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c12e2b2ec7ccdb41b0fb3d8738dfc1d2}{%
+           family={Rodenburg},
+           familyi={R\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97b3eb3d46b20db197899e6f2c4c1e23}{%
+           family={Hynes},
+           familyi={H\bibinitperiod},
+           given={Rod},
+           giveni={R\bibinitperiod}}}%
+        {{hash=036c5e59bf1c855f8b07abecd7c48621}{%
+           family={Madory},
+           familyi={M\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod}}}%
+        {{hash=10cb3cc348cc81a4c7dfc6157caf383c}{%
+           family={Ensafi},
+           familyi={E\bibinitperiod},
+           given={Roya},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{27e816e44047a5f2bcad7de2d6b0c27c}
+      \strng{fullhash}{197b62b279943fa698c4786202483b16}
+      \strng{bibnamehash}{197b62b279943fa698c4786202483b16}
+      \strng{authorbibnamehash}{197b62b279943fa698c4786202483b16}
+      \strng{authornamehash}{27e816e44047a5f2bcad7de2d6b0c27c}
+      \strng{authorfullhash}{197b62b279943fa698c4786202483b16}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{32nd USENIX Security Symposium (USENIX Security 23)}
+      \field{title}{Network responses to russia's invasion of ukraine in 2022: a cautionary tale for internet freedom}
+      \field{year}{2023}
+      \field{pages}{2581\bibrangedash 2598}
+      \range{pages}{18}
+    \endentry
+    \entry{singhcyberspace}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a8d556ee55660652e2fa4d03e937d691}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Gursimran},
+           giveni={G\bibinitperiod}}}%
+        {{hash=eef94911ce2d944342993e87d2be3f2f}{%
+           family={Acharya},
+           familyi={A\bibinitperiod},
+           given={HB},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{56ea6a259319b464a35cc6bd57888d8e}
+      \strng{fullhash}{56ea6a259319b464a35cc6bd57888d8e}
+      \strng{bibnamehash}{56ea6a259319b464a35cc6bd57888d8e}
+      \strng{authorbibnamehash}{56ea6a259319b464a35cc6bd57888d8e}
+      \strng{authornamehash}{56ea6a259319b464a35cc6bd57888d8e}
+      \strng{authorfullhash}{56ea6a259319b464a35cc6bd57888d8e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Cyberspace Study of the Russia-Ukraine War}
+      \field{year}{2023}
+    \endentry
+    \entry{Tavakkoli2025Frontlines}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=f9acdb91b5faa4061a1ec828bf38581d}{%
+           family={Tavakkoli},
+           familyi={T\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a6b7da6e9ad7a4c8c455abe707436f23}{%
+           family={Çetin},
+           familyi={Ç\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f1efd6460781e972a6e2f06095725ba1}{%
+           family={Ekmekcioglu},
+           familyi={E\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{86296a195142525a3fd39c53ad838bb1}
+      \strng{fullhash}{86296a195142525a3fd39c53ad838bb1}
+      \strng{bibnamehash}{86296a195142525a3fd39c53ad838bb1}
+      \strng{authorbibnamehash}{86296a195142525a3fd39c53ad838bb1}
+      \strng{authornamehash}{86296a195142525a3fd39c53ad838bb1}
+      \strng{authorfullhash}{86296a195142525a3fd39c53ad838bb1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Information Security}
+      \field{title}{From frontlines to online: examining target preferences in the Russia--Ukraine conflict}
+      \field{volume}{24}
+      \field{year}{2025}
+      \field{pages}{64}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10207-025-00981-w
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
