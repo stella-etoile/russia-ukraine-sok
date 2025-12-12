@@ -1,6 +1,6 @@
 \section{Technical Overview}\label{sec:technical-overview}
 
-\subsection{Distributed Denial of Service (DDoS) Attacks}
+\subsection{Distributed Denial of Service (DDoS)\\Attacks}
 Distributed Denial of Service (DDoS) attacks have played a prominent and evolving role throughout the Russia--Ukraine conflict, appearing both in the early stages of the invasion and in the sustained hacktivist campaigns that followed. In the weeks immediately preceding the February 2022 invasion, Russian military-linked actors conducted a DDoS attack that briefly disrupted access to several Ukrainian government websites and the country’s two largest banks, representing one of the first visible indicators of coordinated online operations targeting Ukrainian institutions.
 
 As the conflict progressed, DDoS attacks became the most common form of cyber activity, driven not only by state actors but overwhelmingly by pro-Ukrainian and pro-Russian hacktivist collectives. DDoS attacks constituted 71--87\% of all recorded cyber incidents in Ukraine across late 2022 and early 2023, and similar surges were observed in Russia and other countries. Analysis of 4,612 victim domains shows that pro-Ukrainian groups targeted 3,090 domains while pro-Russian groups targeted 1,522 domains, with both sides displaying distinct temporal and strategic patterns \cite{tavakkoli2025frontlines}.
@@ -20,7 +20,7 @@ DNS has also been used to prevent Russian users from accessing foreign webpages 
 
 However, no clear evidence of DNS manipulation has been found to affect users in Ukraine. DNS queries for 612 websites identified as potentially blocked in Ukraine in March 2022 were re-tested in July 2022, revealing no interception or spoofing and indicating normal DNS behavior following the onset of the war \cite{singh2023poster}.
 
-\subsection{Transmission Control Protocol (TCP) Manipulation}
+\subsection{Transmission Control Protocol (TCP)\\Manipulation}
 Traffic manipulation at the Transmission Control Protocol (TCP) layer was investigated during the early months of the war, focusing on whether Russian networks interfered with Ukrainian traffic through TCP reset injection or connection termination. Using a multi-protocol traceroute tool capable of crafting packets across HTTP, TLS, DNS, UDP, ICMP, and TCP, researchers examined whether censorship infrastructure along Ukrainian or Russian autonomous systems actively disrupted TCP connections.
 
 Despite concerns that Russian networks might weaponize TCP-level filtering, empirical evidence showed minimal use of TCP-based censorship. Across hundreds of tested domains, researchers found no cases where Russian networks injected TCP reset packets to terminate Ukrainian client connections, aside from limited instances involving Russian-hosted sites returning explicit block pages or HTTP 403 errors. Russian networks appeared on many routing paths, demonstrating visibility but not active TCP-layer manipulation \cite{singh2023poster}.
@@ -38,7 +38,7 @@ To distinguish genuine censorship from server-side access control, researchers a
 
 Traceroute measurements using HTTP-crafted packets revealed no evidence of HTTP-level interference by Russian networks toward Ukrainian users. No payload modification, keyword filtering, or injected block pages were observed, and no application-layer middleboxes were detected on paths traversing Russian autonomous systems. Overall, access issues stemmed primarily from server decisions, DDoS-related overload, or transient network instability rather than protocol-level manipulation of HTTP traffic.
 
-\subsection{Transport Layer Security (TLS) Handshake Delays}
+\subsection{Transport Layer Security (TLS)\\Handshake Delays}
 Time-series measurements indicate that the time required to establish TLS handshakes for Russian autonomous systems increased significantly following the invasion, reaching average delays of up to three seconds between February 2022 and January 2025. This contrasts sharply with normal TLS handshake times, which typically occur within milliseconds.
 
 The most likely explanation for this increase is systematic packet inspection. Notable increases in latency followed a July 2022 Russian law imposing fines on telecommunications operators that failed to install traffic inspection equipment, and a July 2023 announcement enforcing those penalties \cite{luconi2023impact}. The longest delays were observed for websites related to news, communication, and human rights organizations, with some sites becoming effectively unreachable \cite{saha2025internet}. These findings provide recent evidence that censorship within Russia has intensified as the war continues.
